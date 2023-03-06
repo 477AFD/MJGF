@@ -1,5 +1,6 @@
 # MJGF
-Currently it is only a placeholder.
+Version a1.0
 
-This is where I put the releases of the code needed for our research study.
- 
+NOTE: The INSTALL_MAIN.ino file is untested and subject to change in the next release.
+
+These are all used in the Arduino Automatic Two-function Floor Cleaner research project.
